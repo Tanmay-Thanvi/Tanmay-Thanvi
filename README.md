@@ -1,6 +1,6 @@
 <!-- <a href="#"><img width="100%" height="auto" src="" height="175px"/></a> -->
 
-<h1 align="center">Hi, I'm Harshwardhan Atkare <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Tanmay Thanvi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I am an Android Developer</h3>
 
 <hr>
@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning *DSA and Java*
 
-- 👨‍💻 All of my projects are available at **[My Github Profile](https://github.com/Harshwardhan431)**
+- 👨‍💻 All of my projects are available at **[My Github Profile](https://github.com/Tanmay-Thanvi)**
 
-- ⚡ Fun Fact : I like to play BasketBall and various other outdoor sports
+- ⚡ Fun Fact : I like to play Cricket and various other outdoor sports
 <hr>
 
 ## 🚀 Languages and Tools:
