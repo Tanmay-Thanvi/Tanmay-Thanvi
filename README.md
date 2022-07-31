@@ -1,7 +1,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="" height="175px"/></a> -->
 
 <h1 align="center">Hi, I'm Tanmay Thanvi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I am an Android Developer</h3>
+<h3 align="center">I am a Backend Developer</h3>
 
 <hr>
 
