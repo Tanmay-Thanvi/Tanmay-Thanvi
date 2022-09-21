@@ -37,7 +37,7 @@
 <br>
 <p align="center">
     <a href="https://github.com/Tanmay-thanvi/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harshwardhan431 Atkare streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay-thanvi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tanmay Thanvi streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay-thanvi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
