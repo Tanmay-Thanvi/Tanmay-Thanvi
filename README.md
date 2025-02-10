@@ -7,17 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Project Activate**
+- 🔭 I’m currently working on **Project IMD (Image Piracy Detector over Social Media Networks)**
 
-- 🌱 I’m currently learning **Golang, Microservices, Kafka & Java**
+- 🌱 I’m currently learning **Java Springboot, Microservices, Kafka & Golang**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Django, Python, Flutter, Go**
+- 💬 Ask me about **Django, Python, Flutter, Golang**
 
 - 📫 How to reach me **tanmaythanvi15@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://github.com/Tanmay-Thanvi/Tanmay-Thanvi/blob/main/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
